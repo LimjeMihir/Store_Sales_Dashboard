@@ -112,7 +112,7 @@ Hover tooltips show exact values; clicking a segment acts as a filter across the
 **Created by:** *Mihir Limje*  
 **Last updated:** 19 July 2025  
 
-For suggestions or issues raise a ticket in the project tracker or email **mihir.limje@example.com**.
+For suggestions or issues raise a ticket in the project tracker or email **mihirlimje29@gmail.com**.
 
 ---
 
