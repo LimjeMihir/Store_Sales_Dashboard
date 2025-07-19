@@ -11,7 +11,7 @@ This **Power BI** report presents a one‑page interactive dashboard that helps 
 
 Designed for busy managers, the layout balances at‑a‑glance KPI cards with deeper drill‑down visuals that answer the who/what/where/when of Amazon store performance.
 
---- --<img src="Amazon_Dashboard.png" height=600px width="1250px">-
+--- --<img src="Amazon_dashboard.png" height=600px width="1250px">-
 
 ## 2. File Inventory
 | File | Purpose |
